@@ -1,0 +1,14 @@
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\bin\Debug\netcoreapp3.1\exercicio composicao e enumeração.exe
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\bin\Debug\netcoreapp3.1\exercicio composicao e enumeração.deps.json
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\bin\Debug\netcoreapp3.1\exercicio composicao e enumeração.runtimeconfig.json
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\bin\Debug\netcoreapp3.1\exercicio composicao e enumeração.runtimeconfig.dev.json
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\bin\Debug\netcoreapp3.1\exercicio composicao e enumeração.dll
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\bin\Debug\netcoreapp3.1\exercicio composicao e enumeração.pdb
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\obj\Debug\netcoreapp3.1\exercicio composicao e enumeração.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\obj\Debug\netcoreapp3.1\exercicio composicao e enumeração.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\obj\Debug\netcoreapp3.1\exercicio composicao e enumeração.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\obj\Debug\netcoreapp3.1\exercicio composicao e enumeração.AssemblyInfo.cs
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\obj\Debug\netcoreapp3.1\exercicio composicao e enumeração.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\obj\Debug\netcoreapp3.1\exercicio composicao e enumeração.dll
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\obj\Debug\netcoreapp3.1\exercicio composicao e enumeração.pdb
+D:\VisualStudioProjetos\exercicio composicao e enumeração\exercicio composicao e enumeração\obj\Debug\netcoreapp3.1\exercicio composicao e enumeração.genruntimeconfig.cache
